@@ -1,2 +1,2 @@
 .DS_Store
-**/.DS_Store
+*/.DS_Store # 此行不起作用, 不能用*代之所有文件夹的名称
